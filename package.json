@@ -1,0 +1,27 @@
+{
+  "name": "maptowordcloud",
+  "version": "1.0.8",
+  "description": "Provide function to turn polygon GeoJson and related data into wordcloud",
+  "main": "MapToWordCloud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnHenryEden/MapToWordCloud.git"
+  },
+  "keywords": [
+    "GIS",
+    "wordcloud",
+    "geojson"
+  ],
+  "author": "@JohnHenryEden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnHenryEden/MapToWordCloud/issues"
+  },
+  "homepage": "https://github.com/JohnHenryEden/MapToWordCloud#readme",
+  "dependencies": {
+    "wordcloud": "^1.1.1"
+  }
+}
